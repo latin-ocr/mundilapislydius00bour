@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mundilapislydius00bour/mundilapislydius00bour_0044.png"; bbox 0 0 2128 2808; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 543 2179 645 2199">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 543 2179 645 2199">
+     <span class='ocr_line' id='line_1_1' title="bbox 543 2179 645 2199; baseline -0.02 0"><span class='ocrx_word' id='word_1_1' title='bbox 543 2184 547 2190; x_wconf 68' lang='lat'><em>⁴</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 574 2181 610 2199; x_wconf 58' lang='lat' dir='ltr'><strong>:w</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 633 2179 645 2190; x_wconf 51' lang='grc' dir='ltr'><strong>ι’</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 650 2183 752 2205">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 650 2183 752 2205">
+     <span class='ocr_line' id='line_1_2' title="bbox 650 2183 752 2205; baseline 0.01 -12"><span class='ocrx_word' id='word_1_4' title='bbox 650 2188 669 2205; x_wconf 41' lang='grc' dir='ltr'><strong>Ψ</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 682 2183 718 2201; x_wconf 45' lang='grc' dir='ltr'><strong>νε,</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 736 2185 752 2191; x_wconf 64' lang='lat' dir='ltr'><strong>-v</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 485 2214 834 2343">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 485 2214 834 2343">
+     <span class='ocr_line' id='line_1_3' title="bbox 657 2214 801 2274; baseline -0.014 -16"><span class='ocrx_word' id='word_1_7' title='bbox 657 2214 701 2260; x_wconf 54' lang='lat'><strong>“2-</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 707 2214 753 2274; x_wconf 33' lang='grc'><strong>31..</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 762 2222 801 2257; x_wconf 48' lang='grc' dir='ltr'><strong>ἦερ</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 485 2278 834 2343; baseline 0.017 -10"><span class='ocrx_word' id='word_1_10' title='bbox 485 2278 593 2338; x_wconf 73' lang='grc' dir='ltr'><strong>9(τ9</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 607 2294 702 2343; x_wconf 55' lang='grc'><strong>99.</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 723 2280 834 2326; x_wconf 64' lang='lat'><strong>¹1³</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 400 2203 652 2283">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 400 2203 652 2283">
+     <span class='ocr_line' id='line_1_5' title="bbox 400 2203 652 2283; baseline -0.008 -25"><span class='ocrx_word' id='word_1_13' title='bbox 400 2259 406 2274; x_wconf 27' lang='lat'><em>5</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 424 2203 517 2279; x_wconf 42' lang='grc' dir='ltr'><strong>[(Ῐὲᾖζ</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 533 2207 652 2283; x_wconf 39' lang='grc'><strong>’9,(9611</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 2128 2808">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 2128 2808">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 2128 2808; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 2128 2808; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

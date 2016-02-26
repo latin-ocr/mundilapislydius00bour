@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mundilapislydius00bour/mundilapislydius00bour_0117.png"; bbox 0 0 2128 2808; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1197 0 2128 205">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1197 0 2128 34">
+     <span class='ocr_line' id='line_1_1' title="bbox 1197 0 2128 34; baseline 0.013 -12"><span class='ocrx_word' id='word_1_1' title='bbox 1197 19 1202 22; x_wconf 87' lang='lat'>.</span> <span class='ocrx_word' id='word_1_2' title='bbox 1321 0 1362 15; x_wconf 46' lang='grc' dir='ltr'>κ’</span> <span class='ocrx_word' id='word_1_3' title='bbox 1432 18 1438 25; x_wconf 30' lang='lat' dir='ltr'>x</span> <span class='ocrx_word' id='word_1_4' title='bbox 1484 0 1606 29; x_wconf 48' lang='lat' dir='ltr'>ww„</span> <span class='ocrx_word' id='word_1_5' title='bbox 1682 0 1941 30; x_wconf 44' lang='lat' dir='ltr'>&#39;⁶1:17&#39;ffv&#39;5ss&#39;1‘</span> <span class='ocrx_word' id='word_1_6' title='bbox 2014 0 2047 22; x_wconf 49' lang='grc' dir='ltr'><em>Ῥ</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 2067 0 2128 34; x_wconf 59' lang='lat'>”³³2</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1468 44 2123 145">
+     <span class='ocr_line' id='line_1_2' title="bbox 1468 44 2123 145; baseline -0.005 -26"><span class='ocrx_word' id='word_1_8' title='bbox 1468 84 1473 89; x_wconf 22' lang='grc' dir='ltr'><strong><em>Γ</em></strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1536 92 1564 130; x_wconf 68' lang='grc' dir='ltr'>ζ</span> <span class='ocrx_word' id='word_1_10' title='bbox 1586 63 1674 119; x_wconf 47' lang='grc' dir='ltr'>(μὴ</span> <span class='ocrx_word' id='word_1_11' title='bbox 1697 44 1996 145; x_wconf 45' lang='grc' dir='ltr'>ξεέμεί·ᾱ”ἔ“</span> <span class='ocrx_word' id='word_1_12' title='bbox 2120 102 2123 108; x_wconf 79' lang='lat'><em>,</em></span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1251 136 2121 205">
+     <span class='ocr_line' id='line_1_3' title="bbox 1251 136 2121 169; baseline 0 -2"><span class='ocrx_word' id='word_1_13' title='bbox 1251 148 1262 167; x_wconf 73' lang='grc' dir='ltr'>ι</span> <span class='ocrx_word' id='word_1_14' title='bbox 1444 147 1446 151; x_wconf 95' lang='grc'><strong><em>·</em></strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1725 146 1754 154; x_wconf 78' lang='lat'>-‘</span> <span class='ocrx_word' id='word_1_16' title='bbox 1838 166 1850 169; x_wconf 37' lang='grc' dir='ltr'><strong><em>Δ</em></strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 1961 152 1969 155; x_wconf 92' lang='grc'>-</span> <span class='ocrx_word' id='word_1_18' title='bbox 2023 160 2028 164; x_wconf 82' lang='lat'>.</span> <span class='ocrx_word' id='word_1_19' title='bbox 2116 136 2121 141; x_wconf 53' lang='grc'><strong>“</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1611 186 1915 205; baseline 0 0"><span class='ocrx_word' id='word_1_20' title='bbox 1611 195 1623 205; x_wconf 63' lang='lat'>0</span> <span class='ocrx_word' id='word_1_21' title='bbox 1846 194 1849 196; x_wconf 86' lang='lat'>&#39;</span> <span class='ocrx_word' id='word_1_22' title='bbox 1880 186 1884 190; x_wconf 47' lang='lat'>⁵</span> <span class='ocrx_word' id='word_1_23' title='bbox 1911 193 1915 196; x_wconf 72' lang='lat'><strong>⁴</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
